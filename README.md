@@ -12,7 +12,7 @@ Python algorythm, analyses video and gives the most typical frames of the video.
 4) написать и отладить алгоритм;
 5) проверить качество получаемых результатов.
 
-Рисунок алгоритма:
+**Рисунок алгоритма:**
 <p align="center">
  <img width="400px" src="pictures/algorythm.png" alt="qr"/>
 </p>
@@ -22,24 +22,34 @@ Python algorythm, analyses video and gives the most typical frames of the video.
 В результате выполнения программы были получены 5 адекватных кадров по убыванию адекватности. Для показа результата в данной работе были вырезаны 5 кадров из каждого 10 секундного видео.
 
 **Первый кадр**
-
+<p align="center">
+ <img width="700px" src="pictures/frame_1.jpg" alt="qr"/>
+</p>
 ожидаемый, самый красочный в данном видео ряде.
 
 **Второй кадр**
-
+<p align="center">
+ <img width="700px" src="pictures/frame_2.jpg" alt="qr"/>
+</p>
 по адекватности — момент до того, как они подошли к городу.
 
 **Третий кадр** 
-
+<p align="center">
+ <img width="700px" src="pictures/frame_3.jpg" alt="qr"/>
+</p>
 — битва.
 
 **Четвертый кадр** 
-
+<p align="center">
+ <img width="700px" src="pictures/frame_4.jpg" alt="qr"/>
+</p>
 — разговор Гендальфа с Хоббитом:
 - Это похоже на магию.
 - Ты совершенно прав мой друг, это очень могущественная магия.
 
 **Пятый кадр**
-
+<p align="center">
+ <img width="700px" src="pictures/frame_5.jpg" alt="qr"/>
+</p>
  — во время битвы Гендальф неожиданно появился из-за камня, где до этого не было никого и позвал всех в пещеру.
 Данный результат полностью совпал с ожиданием.
