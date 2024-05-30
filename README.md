@@ -31,7 +31,7 @@ Python algorythm, analyses video and gives the most typical frames of the video.
 <p align="center">
  <img width="700px" src="pictures/frame_2.jpg" alt="qr"/>
 </p>
-по адекватности — момент до того, как они подошли к городу.
+— момент до того, как они подошли к городу.
 
 **Третий кадр** 
 <p align="center">
@@ -52,4 +52,5 @@ Python algorythm, analyses video and gives the most typical frames of the video.
  <img width="700px" src="pictures/frame_5.jpg" alt="qr"/>
 </p>
  — во время битвы Гендальф неожиданно появился из-за камня, где до этого не было никого и позвал всех в пещеру.
-Данный результат полностью совпал с ожиданием.
+
+Данные результаты полностью совпали с ожиданием.
